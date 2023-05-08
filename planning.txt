@@ -1,0 +1,21 @@
+User can see a list of hotels
+User can book a hotel
+User can get a reservation confirmation ticket
+
+User can see a list of laptops
+User can buy a laptop
+User can get a reservation - First in text form, then pdf
+Optional, -1 to the stock (probably d-type stuff)
+
+Classes:
+User
+Laptop
+Receipt
+
+How to plan:
+Write requirements
+Write Classes (Look for nouns)
+Add methods to classes (match nouns)
+Do these methods fit each class? Remove or add classes as required
+Write the main loops, calling each method(function)
+During the main loop, you will create methods which you didn't know you needed
